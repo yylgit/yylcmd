@@ -1,5 +1,5 @@
 {
-  "name": "first-command",
+  "name": "yylcmd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,14 @@
   "bin": {
     "yylcmd": "./index.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yylgit/yylcmd.git"
+  },
+  "keywords": [
+    "node",
+    "command"
+  ],
+  "author": "yangyiliang",
   "license": "ISC"
 }
