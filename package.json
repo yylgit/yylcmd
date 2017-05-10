@@ -18,5 +18,9 @@
     "command"
   ],
   "author": "yangyiliang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.7.7",
+    "yargs": "^8.0.1"
+  }
 }
